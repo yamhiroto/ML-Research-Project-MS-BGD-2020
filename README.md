@@ -44,9 +44,6 @@ datasets including labels (= the different lithologies, which are types of under
 - all_litho.csv for all the different lithologies 
 - argile_litho.csv for lithologies among clays.
 
-#### geoxilia.db
-Database files which can be uploaded in notebooks.
-
 #### Presentation - 10.02.2020.pdf
 PDF version of the slides we used for an official presentation in front of the class and a jury.
 
